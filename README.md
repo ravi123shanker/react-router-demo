@@ -2,9 +2,7 @@
 
 from the command prompt clone the project
 
-* $git clone https://github.com/techsithgit/react-router.git
-* $cd react-router
+* $git clone https://github.com/ravi123shanker/react-router-demo.git
+* $cd react-router-demo
 * $npm install
 * $npm start
-
-[Watch the Tutorial](https://youtu.be/XRfD8xIOroA).
